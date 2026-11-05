@@ -1,2 +1,2 @@
-print("Rayhan Rajodi Nofes")
+print(input())
 print("2606860050")
